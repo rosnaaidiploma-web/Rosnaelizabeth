@@ -1,0 +1,4 @@
+job_id,job_title,required_skills
+1,Data Scientist,python;machine learning;nlp;sql;statistics
+2,HR Analyst,excel;communication;recruitment;data analysis
+3,Backend Developer,python;api;docker;testing

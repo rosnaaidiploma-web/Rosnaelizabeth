@@ -1,0 +1,4 @@
+Alice Smith
+Experienced data enthusiast with skills in Python, machine learning, and statistics.
+Worked on NLP-based resume screening and candidate ranking projects.
+Comfortable with pandas, scikit-learn, and data storytelling.
