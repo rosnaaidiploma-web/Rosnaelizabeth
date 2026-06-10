@@ -1,0 +1,7 @@
+transformers>=4.30.0
+datasets>=2.0.0
+sentencepiece
+torch>=1.12
+numpy
+pytest
+pytest-mock
