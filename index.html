@@ -1,0 +1,44 @@
+.<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>College Enquiry Chatbot</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="app-shell">
+    <header class="app-header">
+      <div>
+        <h1>College Enquiry Chatbot</h1>
+        <p>Ask about admissions, courses, fees, and facilities.</p>
+      </div>
+    </header>
+
+    <main class="chat-container">
+      <div class="chat-window" id="chatWindow">
+        <div class="message bot-message">
+          <div class="message-text">Hi! I am your college enquiry assistant. Ask me about admissions, courses, fees, or facilities.</div>
+        </div>
+      </div>
+
+      <form class="chat-form" id="chatForm">
+        <input type="text" id="userInput" placeholder="Type your question here..." autocomplete="off" />
+        <button type="submit">Send</button>
+      </form>
+    </main>
+
+    <section class="info-panel">
+      <h2>Example questions</h2>
+      <ul>
+        <li>How do I apply for admission?</li>
+        <li>What undergraduate courses are available?</li>
+        <li>How much is the tuition fee?</li>
+        <li>What facilities does the campus offer?</li>
+      </ul>
+    </section>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,50 @@
+[
+  {
+    "category": "admissions",
+    "questions": [
+      "how do i apply",
+      "application process",
+      "admission requirements",
+      "when does admission start",
+      "what are the eligibility criteria",
+      "how to submit an application"
+    ],
+    "answer": "To apply, visit the admissions page, choose your program, and complete the online application form. You will need academic transcripts, identity proof, and any required test scores. Admission deadlines vary by program, so check the latest schedule before applying."
+  },
+  {
+    "category": "courses",
+    "questions": [
+      "what courses are available",
+      "available courses",
+      "undergraduate courses",
+      "postgraduate courses",
+      "programs offered",
+      "degree programs"
+    ],
+    "answer": "We offer a range of programs including Computer Science, Business Administration, Engineering, Arts, and Social Sciences. Both undergraduate and postgraduate degrees are available, and each program includes practical labs, project work, and expert faculty guidance."
+  },
+  {
+    "category": "fees",
+    "questions": [
+      "tuition fee",
+      "how much is the fee",
+      "fee structure",
+      "scholarship",
+      "financial aid",
+      "cost of study"
+    ],
+    "answer": "Tuition fees depend on the program and course level. Most undergraduate programs start from $8,000 per year. Scholarships and financial aid are available for eligible students. Contact the finance office or check the fees page for exact details."
+  },
+  {
+    "category": "facilities",
+    "questions": [
+      "campus facilities",
+      "library",
+      "hostel",
+      "labs",
+      "sports",
+      "student housing"
+    ],
+    "answer": "Our campus includes modern classrooms, a digital library, computer labs, science labs, sports fields, and student housing. We also provide medical support, counseling services, cafeterias, and strong extracurricular activities to support a well-rounded student experience."
+  }
+]
